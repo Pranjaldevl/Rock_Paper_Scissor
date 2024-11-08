@@ -1,0 +1,23 @@
+html{
+    color: white;
+    background: #000;
+}
+h1{
+text-align: center;
+
+}
+#container{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    height:90vh;
+}
+button{
+    color: red;
+    width:100px;
+    height:80px;
+    background-color: darkgrey;
+}
+button:hover{
+    background-color: silver;
+}
